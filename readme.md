@@ -22,7 +22,7 @@ Ensure you have Python installed. This script uses **NumPy**, so install depende
 pip install numpy
 ```
 
-## Usage
+## Run
 Run the script using:
 
 ```sh
